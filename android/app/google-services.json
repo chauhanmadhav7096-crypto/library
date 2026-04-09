@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267660866494",
+    "project_id": "library-management-syste-b92a5",
+    "storage_bucket": "library-management-syste-b92a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267660866494:android:a1aa2e1b8f645fe61b3fef",
+        "android_client_info": {
+          "package_name": "com.example.pro20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267660866494-94end0okr947bumpo28a57rr60abqdce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPUHXo4U_HdAuJTRGpuPXRhLIruGetSKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267660866494-94end0okr947bumpo28a57rr60abqdce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
